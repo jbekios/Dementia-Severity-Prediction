@@ -7,5 +7,5 @@ Previous research has shown the benefits of early detection and treatment of dem
 
 # Code
 
-* **Dataset without balance:** [src/Dementia_Severity_Prediction-without-balance.ipynb](src/Dementia_Severity_Prediction-without-balance.ipynb)
+* **Dataset without balance:** [src/Dementia_Severity_Prediction-without-balance.ipynb](src/Dementia_Severity_Prediction_without_balance.ipynb)
 * **Dataset with balance:** [src/Dementia_Severity_Prediction-with-balance.ipynb](src/Dementia_Severity_Prediction_with_balance_checkpoint.ipynb)
